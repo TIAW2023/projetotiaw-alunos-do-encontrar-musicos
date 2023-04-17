@@ -7,13 +7,12 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 * Julia Fernandes Malaquias
 * Samir de Santi
 * Luiz Gustavo GonçalesSoares dos Reis
-* 
-* Nome completo do aluno 4
-* Nome completo do aluno 4
+* Vitor Lopes Nocce 
+* Pedro Henrique Rensende Menezes
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
+* Carolina Rhaianda Silva Jandre
 * Nome completo do professor 2
 
 ## Quadro de tarefas
