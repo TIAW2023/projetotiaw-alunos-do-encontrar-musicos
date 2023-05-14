@@ -1,0 +1,15 @@
+
+
+
+.perfil img{
+    position: relative;
+    left:15px;
+    top:20px;
+}
+
+
+.perfil p{
+    position: relative;
+    left: 100px;
+    top:-10px;
+}
